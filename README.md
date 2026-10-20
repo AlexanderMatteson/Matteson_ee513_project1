@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EE 513 Student Environment
 
 **Purpose:** the two files students download from Canvas to build the course Python environment.
@@ -87,3 +88,11 @@ That is the better answer for a one-off in a single lecture.
 ## The Canvas page
 
 `Canvas Page.html` is the student-facing instructions, ready to paste into a Canvas page using the HTML editor (the `</>` button in the rich content editor). Attach `pyproject.toml` and `uv.lock` to the same module.
+=======
+# Matteson_ee513_project1
+Assignment 1 for ee513
+
+Camera: Iphone 12 mini (but the camera maybe broke so I may change this)
+
+App for raw capture: Raw Camera (from app store)
+>>>>>>> 1a624a11bc45819873a30903e90846265f5ffcd3
