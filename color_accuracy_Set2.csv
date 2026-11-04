@@ -1,0 +1,5 @@
+reference set,quantity,value,uncertainty (std)
+Set2,mean dE00 before,8.54830272542,0.120392099175
+Set2,mean dE00 after,2.81545958564,0.0757668400955
+Set2,improvement,5.73284313978,0.093540500419
+Set2,worst patch after: 15 red,8.937054097,0.0452334217823
