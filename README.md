@@ -1,18 +1,15 @@
-# Matteson_ee513_project1
+README
+Matteson_ee513_project1
+Project 1 for ee513
 
-Camera: Iphone 12 mini (includes work for both the cameras)
+Camera: Iphone 12 mini (both cameras on the back of the iphone 12 mini)
 
-App for raw capture: Raw Camera (from app store)
+App for raw capture: RawCam (from app store)
 
-The Problem: We need to chariterize a phone camera.
-- Geometry
-- Spatial resolution
-- Noise: the Poisson-Gaussian model
-- Dynamic range
-- Color accuracy (only for the main camera)
+Problem: characterize a smart phone camera
 
-The methods: see jupyter notebook "PROJECT1_ee513_Matteson.ipynb"
+Methods: see jupyter note book: "PROJECT1_ee513_Matteson" and ReportProject1_ee513.pdf
 
-Results table: The results.json file
+Results tabe: see results.template.json
 
-One-command reproduction: Run the jupyter notebook that contains all code for the chariterization "PROJECT1_ee513_Matteson.ipynb"
+One command check: see jupyter note book: "PROJECT1_ee513_Matteson"
