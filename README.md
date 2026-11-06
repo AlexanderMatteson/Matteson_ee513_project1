@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # EE 513 Student Environment
 
 **Purpose:** the two files students download from Canvas to build the course Python environment.
@@ -95,4 +95,4 @@ Assignment 1 for ee513
 Camera: Iphone 12 mini (but the camera maybe broke so I may change this)
 
 App for raw capture: Raw Camera (from app store)
->>>>>>> 1a624a11bc45819873a30903e90846265f5ffcd3
+ 1a624a11bc45819873a30903e90846265f5ffcd3
